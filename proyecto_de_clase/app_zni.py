@@ -94,3 +94,5 @@ df_pivote = df_zni.pivot_table(
 # CONFIRMACION DE STREAMLIT
 # VIZUALIZACION DE DATOS
 st.image('img/encabezado.png')
+
+print('hola mundo')
